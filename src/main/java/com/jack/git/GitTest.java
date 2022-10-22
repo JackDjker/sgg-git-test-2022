@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("\"Hello Git\" = " + "Hello Git");
         System.out.println("500000");
         System.out.println("333333");
+        System.out.println("hot -fix ");
     }
 }
