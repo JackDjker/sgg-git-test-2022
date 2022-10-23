@@ -15,6 +15,7 @@ public class GitTest {
         System.out.println("hot -fix ");
         System.out.println("master 分支代码 此处会与hot fix 冲突");
         System.out.println("hot -fix 代码 测试冲突合并");
+        System.out.println("hot代码托送到远程库");
         System.out.println("测试第一册推送到远程库!");
         System.out.println("测试使用ssh进行推送！");
     }
